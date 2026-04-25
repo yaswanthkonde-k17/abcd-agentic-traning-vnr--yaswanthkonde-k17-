@@ -1,4 +1,4 @@
-# 🤖 AI Knowledge Assistant (RAG Chatbot)
+# 🤖  COMPANY AI Knowledge Assistant (RAG Chatbot)
 
 ## 📌 1. Business Problem
 
