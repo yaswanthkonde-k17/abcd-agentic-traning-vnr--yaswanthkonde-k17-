@@ -123,4 +123,5 @@ This project demonstrates how RAG architecture can be used to build intelligent 
 
 ## 🔗 Project Links
 
-(Add your GitHub repo / deployment links here)
+- **GitHub Repository**: https://github.com/yaswanthkonde-k17/company-ai-knowledge-assistant
+
